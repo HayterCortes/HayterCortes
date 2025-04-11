@@ -4,3 +4,4 @@
 *.JPG
 *.gif
 *.pickle
+*.parquet
