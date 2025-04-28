@@ -5,3 +5,10 @@
 *.gif
 *.pickle
 *.parquet
+*.tsv
+*.log
+*.html
+*.csv
+*.tfevents
+*.json
+*.tmp
